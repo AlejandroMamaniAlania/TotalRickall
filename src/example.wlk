@@ -8,7 +8,7 @@ class Parasito{
 	var property nivelLastima=0
 	method infectar(alguien){
 		if(alguien.nivelCordura()>self.nivelLastima()){
-			
+			//prueba
 		}
 	}
 	
