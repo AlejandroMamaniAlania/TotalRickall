@@ -1,7 +1,7 @@
 class Persona{
 	var property nivelCordura=0
 	method serInfectada(parasito){
-		nivelCordura-=1
+		nivelCordura-=4
 	}
 }
 class Parasito{
