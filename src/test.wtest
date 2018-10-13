@@ -1,0 +1,6 @@
+import example.*
+describe "test de TotalRickAll"{
+	test "pepe"{
+		
+	}
+}
